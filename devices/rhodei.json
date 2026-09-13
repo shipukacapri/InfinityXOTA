@@ -1,0 +1,12 @@
+{
+	"response": [
+		{
+			"filename": "Add FileName",
+			"download": "Add Download Link",
+			"timestamp": TIMESTAMP,
+			"md5": "MD5",
+			"size": SIZEofFILE,
+			"version": "VersionNumber"
+		}
+	]
+}
