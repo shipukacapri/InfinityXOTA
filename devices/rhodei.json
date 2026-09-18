@@ -1,12 +1,12 @@
 {
-	"response": [
-		{
-			"filename": "Add FileName",
-			"download": "Add Download Link",
-			"timestamp": TIMESTAMP,
-			"md5": "MD5",
-			"size": SIZEofFILE,
-			"version": "VersionNumber"
-		}
-	]
+    "response": [
+        {
+            "filename": "Project_Infinity-X-3.12-rhodei-18.09.2026-GAPPS-UNOFFICIAL.zip",
+            "download": "https://github.com/shipukacapri/my_releases/releases/download/Infinity-3.12/Project_Infinity-X-3.12-rhodei-18.09.2026-GAPPS-UNOFFICIAL.zip",
+            "timestamp": 1789754197,
+            "md5": "24c36a683e1ebf7fd1dda61353eb4243",
+            "size": 1789647339,
+            "version": "3.12"
+        }
+    ]
 }
