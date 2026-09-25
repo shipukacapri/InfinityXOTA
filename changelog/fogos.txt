@@ -1,4 +1,2 @@
-- Initial A17 Build
 - Source changelog (https://t.me/ProjectInfinityX/2007)
-- New Device, Kernel trees
 - Add OTA updates

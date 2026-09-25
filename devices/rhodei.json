@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "filename": "Project_Infinity-X-3.12-rhodei-19.09.2026-GAPPS-UNOFFICIAL.zip",
-            "download": "https://github.com/shipukacapri/my_releases/releases/download/Infinity-3.12/Project_Infinity-X-3.12-rhodei-19.09.2026-GAPPS-UNOFFICIAL.zip",
-            "timestamp": 1789798346,
-            "md5": "311c528615ec0cd5944b81b51df28572",
-            "size": 1789653907,
-            "version": "3.12"
+            "filename": "Project_Infinity-X-4.0-BETA-rhodei-25.09.2026-GAPPS-UNOFFICIAL.zip",
+            "download": "https://sourceforge.net/projects/shipu-builds-roms/files/InfinityX/Project_Infinity-X-4.0-BETA-rhodei-25.09.2026-GAPPS-UNOFFICIAL.zip/download",
+            "timestamp": 1790308920,
+            "md5": "b49a53e37b9d0867068bd3d52c1ae30d",
+            "size": 2166325624,
+            "version": "4.0"
         }
     ]
 }
