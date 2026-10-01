@@ -1,4 +1,3 @@
-- Initial A17 Build
-- Source changelog (https://t.me/ProjectInfinityX/2007)
-- New Device, Kernel trees
+- 4.0 Beta to 4.0 (Stable)
+- Source changelog (https://t.me/ProjectInfinityX/2017)
 - Add OTA updates
