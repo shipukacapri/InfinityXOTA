@@ -1,0 +1,3 @@
+- 4.0 Beta to 4.0 (Stable)
+- Source changelog (https://t.me/ProjectInfinityX/2017)
+- Add OTA updates (Gapps Build Only)
