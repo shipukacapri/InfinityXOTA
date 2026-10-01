@@ -1,0 +1,4 @@
+- 4.0 Beta to 4.0 (Stable)
+- Source changelog (https://t.me/ProjectInfinityX/2017)
+- change partitions type to EROFS
+- Add OTA updates
